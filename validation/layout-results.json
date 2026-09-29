@@ -1,0 +1,372 @@
+[
+  {
+    "width": 390,
+    "height": 844,
+    "hero": {
+      "height": 1143,
+      "contentBottom": 1092.109375
+    },
+    "sections": [
+      {
+        "id": "produtos",
+        "top": 72.109375,
+        "header": 72,
+        "eyebrow": 40.109375,
+        "contentBottom": 2538.609375,
+        "overflow": false
+      },
+      {
+        "id": "chimarrao",
+        "top": 71.609375,
+        "header": 72,
+        "eyebrow": 421.6875,
+        "contentBottom": 1146.625,
+        "overflow": false
+      },
+      {
+        "id": "velas",
+        "top": 71.625,
+        "header": 72,
+        "eyebrow": 39.625,
+        "contentBottom": 932.890625,
+        "overflow": false
+      },
+      {
+        "id": "atacado",
+        "top": 71.828125,
+        "header": 72,
+        "eyebrow": 39.828125,
+        "contentBottom": 1021.25,
+        "overflow": false
+      },
+      {
+        "id": "sobre",
+        "top": 72.015625,
+        "header": 72,
+        "eyebrow": 422.171875,
+        "contentBottom": 1021.859375,
+        "overflow": false
+      },
+      {
+        "id": "faq",
+        "top": 72.359375,
+        "header": 72,
+        "eyebrow": 40.359375,
+        "contentBottom": 967.59375,
+        "overflow": false
+      },
+      {
+        "id": "contato",
+        "top": 72.4375,
+        "header": 72,
+        "eyebrow": 102.4375,
+        "contentBottom": 622.671875,
+        "overflow": false
+      },
+      {
+        "id": "inicio",
+        "top": 0,
+        "header": 80,
+        "eyebrow": 25,
+        "contentBottom": 1092.109375,
+        "overflow": false
+      }
+    ]
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "hero": {
+      "height": 768,
+      "contentBottom": 727.25
+    },
+    "sections": [
+      {
+        "id": "produtos",
+        "top": 80,
+        "header": 80,
+        "eyebrow": 40,
+        "contentBottom": 739.5,
+        "overflow": false
+      },
+      {
+        "id": "chimarrao",
+        "top": 80,
+        "header": 80,
+        "eyebrow": 40,
+        "contentBottom": 715.21875,
+        "overflow": false
+      },
+      {
+        "id": "velas",
+        "top": 80,
+        "header": 80,
+        "eyebrow": 40,
+        "contentBottom": 619.28125,
+        "overflow": false
+      },
+      {
+        "id": "atacado",
+        "top": 80.125,
+        "header": 80,
+        "eyebrow": 40.125,
+        "contentBottom": 551.515625,
+        "overflow": false
+      },
+      {
+        "id": "sobre",
+        "top": 79.640625,
+        "header": 80,
+        "eyebrow": 39.640625,
+        "contentBottom": 707.625,
+        "overflow": false
+      },
+      {
+        "id": "faq",
+        "top": 80.140625,
+        "header": 80,
+        "eyebrow": 40.140625,
+        "contentBottom": 657.140625,
+        "overflow": false
+      },
+      {
+        "id": "contato",
+        "top": 79.890625,
+        "header": 80,
+        "eyebrow": 91.890625,
+        "contentBottom": 553.59375,
+        "overflow": false
+      },
+      {
+        "id": "inicio",
+        "top": 0,
+        "header": 104,
+        "eyebrow": 24,
+        "contentBottom": 727.25,
+        "overflow": false
+      }
+    ]
+  },
+  {
+    "width": 1536,
+    "height": 864,
+    "hero": {
+      "height": 864,
+      "contentBottom": 823.25
+    },
+    "sections": [
+      {
+        "id": "produtos",
+        "top": 80,
+        "header": 80,
+        "eyebrow": 43.1875,
+        "contentBottom": 771.28125,
+        "overflow": false
+      },
+      {
+        "id": "chimarrao",
+        "top": 80,
+        "header": 80,
+        "eyebrow": 43.1875,
+        "contentBottom": 763.0625,
+        "overflow": false
+      },
+      {
+        "id": "velas",
+        "top": 80,
+        "header": 80,
+        "eyebrow": 43.1875,
+        "contentBottom": 635.65625,
+        "overflow": false
+      },
+      {
+        "id": "atacado",
+        "top": 80.34375,
+        "header": 80,
+        "eyebrow": 43.53125,
+        "contentBottom": 555.328125,
+        "overflow": false
+      },
+      {
+        "id": "sobre",
+        "top": 79.609375,
+        "header": 80,
+        "eyebrow": 42.796875,
+        "contentBottom": 765.84375,
+        "overflow": false
+      },
+      {
+        "id": "faq",
+        "top": 80.109375,
+        "header": 80,
+        "eyebrow": 43.296875,
+        "contentBottom": 660.296875,
+        "overflow": false
+      },
+      {
+        "id": "contato",
+        "top": 80.234375,
+        "header": 80,
+        "eyebrow": 95.421875,
+        "contentBottom": 558.34375,
+        "overflow": false
+      },
+      {
+        "id": "inicio",
+        "top": 0,
+        "header": 104,
+        "eyebrow": 24,
+        "contentBottom": 823.25,
+        "overflow": false
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "hero": {
+      "height": 1080,
+      "contentBottom": 1027.25
+    },
+    "sections": [
+      {
+        "id": "produtos",
+        "top": 80,
+        "header": 80,
+        "eyebrow": 79,
+        "contentBottom": 896.09375,
+        "overflow": false
+      },
+      {
+        "id": "chimarrao",
+        "top": 80,
+        "header": 80,
+        "eyebrow": 54,
+        "contentBottom": 839.65625,
+        "overflow": false
+      },
+      {
+        "id": "velas",
+        "top": 80,
+        "header": 80,
+        "eyebrow": 54,
+        "contentBottom": 646.46875,
+        "overflow": false
+      },
+      {
+        "id": "atacado",
+        "top": 79.96875,
+        "header": 80,
+        "eyebrow": 53.96875,
+        "contentBottom": 565.765625,
+        "overflow": false
+      },
+      {
+        "id": "sobre",
+        "top": 79.859375,
+        "header": 80,
+        "eyebrow": 53.859375,
+        "contentBottom": 776.90625,
+        "overflow": false
+      },
+      {
+        "id": "faq",
+        "top": 80.359375,
+        "header": 80,
+        "eyebrow": 54.359375,
+        "contentBottom": 671.359375,
+        "overflow": false
+      },
+      {
+        "id": "contato",
+        "top": 80.109375,
+        "header": 80,
+        "eyebrow": 106.109375,
+        "contentBottom": 569.03125,
+        "overflow": false
+      },
+      {
+        "id": "inicio",
+        "top": 0,
+        "header": 104,
+        "eyebrow": 40,
+        "contentBottom": 1027.25,
+        "overflow": false
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "hero": {
+      "height": 1024,
+      "contentBottom": 971.25
+    },
+    "sections": [
+      {
+        "id": "produtos",
+        "top": 80,
+        "header": 80,
+        "eyebrow": 51.1875,
+        "contentBottom": 964.578125,
+        "overflow": false
+      },
+      {
+        "id": "chimarrao",
+        "top": 80,
+        "header": 80,
+        "eyebrow": 51.1875,
+        "contentBottom": 803.703125,
+        "overflow": false
+      },
+      {
+        "id": "velas",
+        "top": 80,
+        "header": 80,
+        "eyebrow": 51.1875,
+        "contentBottom": 647.609375,
+        "overflow": false
+      },
+      {
+        "id": "atacado",
+        "top": 80.1875,
+        "header": 80,
+        "eyebrow": 51.375,
+        "contentBottom": 632.203125,
+        "overflow": false
+      },
+      {
+        "id": "sobre",
+        "top": 80.359375,
+        "header": 80,
+        "eyebrow": 51.546875,
+        "contentBottom": 646.6875,
+        "overflow": false
+      },
+      {
+        "id": "faq",
+        "top": 80.359375,
+        "header": 80,
+        "eyebrow": 51.546875,
+        "contentBottom": 668.546875,
+        "overflow": false
+      },
+      {
+        "id": "contato",
+        "top": 80.234375,
+        "header": 80,
+        "eyebrow": 103.421875,
+        "contentBottom": 465.796875,
+        "overflow": false
+      },
+      {
+        "id": "inicio",
+        "top": 0,
+        "header": 88,
+        "eyebrow": 40,
+        "contentBottom": 971.25,
+        "overflow": false
+      }
+    ]
+  }
+]

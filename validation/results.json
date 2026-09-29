@@ -1,0 +1,55 @@
+{
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "missingAnchors": [],
+      "whatsapp": true,
+      "faq": 8,
+      "menu": "desktop",
+      "faqInteraction": "passed",
+      "lightboxKeyboard": "passed"
+    },
+    {
+      "name": "tablet",
+      "width": 768,
+      "scrollWidth": 768,
+      "brokenImages": [],
+      "missingAnchors": [],
+      "whatsapp": true,
+      "faq": 8,
+      "menu": "passed",
+      "faqInteraction": "passed",
+      "lightboxKeyboard": "passed"
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "scrollWidth": 390,
+      "brokenImages": [],
+      "missingAnchors": [],
+      "whatsapp": true,
+      "faq": 8,
+      "menu": "passed",
+      "faqInteraction": "passed",
+      "lightboxKeyboard": "passed"
+    },
+    {
+      "name": "small-mobile",
+      "width": 320,
+      "scrollWidth": 320,
+      "brokenImages": [],
+      "missingAnchors": [],
+      "whatsapp": true,
+      "faq": 8,
+      "menu": "passed",
+      "faqInteraction": "passed",
+      "lightboxKeyboard": "passed"
+    }
+  ],
+  "errors": [],
+  "floatingBubble": "5 seconds visible, 3 seconds duration, hover passed",
+  "schema": "LocalBusiness and 8 FAQ entries passed"
+}

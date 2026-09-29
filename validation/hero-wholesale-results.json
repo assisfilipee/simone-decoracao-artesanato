@@ -1,0 +1,56 @@
+[
+  {
+    "width": 1366,
+    "height": 768,
+    "clear": true,
+    "overflow": false,
+    "polaroidLeft": 822.359619140625,
+    "polaroidRight": 1016.6590576171875,
+    "heroHeight": 768
+  },
+  {
+    "width": 1536,
+    "height": 864,
+    "clear": true,
+    "overflow": false,
+    "polaroidLeft": 831.1243286132812,
+    "polaroidRight": 1063.894775390625,
+    "heroHeight": 864
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "clear": true,
+    "overflow": false,
+    "polaroidLeft": 949.990234375,
+    "polaroidRight": 1214.2803955078125,
+    "heroHeight": 1080
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "clear": true,
+    "overflow": false,
+    "polaroidLeft": 366.22119140625,
+    "polaroidRight": 542.1605834960938,
+    "heroHeight": 1024
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "clear": true,
+    "overflow": false,
+    "polaroidLeft": 3.5641918182373047,
+    "polaroidRight": 152.64192008972168,
+    "heroHeight": 1143
+  },
+  {
+    "width": 320,
+    "height": 740,
+    "clear": true,
+    "overflow": false,
+    "polaroidLeft": 3.750520706176758,
+    "polaroidRight": 123.7848072052002,
+    "heroHeight": 1132
+  }
+]
